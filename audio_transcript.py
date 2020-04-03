@@ -1,5 +1,4 @@
 import speech_recognition as sr
-import noisereduce as nr
 import os.path
 from pydub import AudioSegment
 
