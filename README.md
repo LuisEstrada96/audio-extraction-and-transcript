@@ -16,4 +16,3 @@ brew install ffmpeg
 ```sh
 $ python3 file_to_execute.py
 ```
-
