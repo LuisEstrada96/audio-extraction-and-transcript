@@ -6,5 +6,5 @@ def getAudio(url_video, url_audio):
     audio.write_audiofile(url_audio)
 
 video = "./assets/test1.mp4"
-audio = "./assets/test1.mp3"
+audio = "./assets/test1.wav"
 getAudio(video, audio)

@@ -1,2 +1,7 @@
 moviepy==1.0.2
 numpy==1.18.2
+pydub==0.23.1
+SpeechRecognition==3.8.1
+tqdm==4.45.0
+noisereduce==1.1.0
+brew install ffmpeg
