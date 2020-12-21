@@ -31,6 +31,7 @@ def changeExtension(url):
     tmp += ".wav"
     return tmp
 
+
 audio = "./assets/test3.m4a"
 lang = "es"
 audio_str = audioTranscript(audio, lang)
